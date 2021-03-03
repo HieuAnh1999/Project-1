@@ -9,9 +9,6 @@
     padding-right: 100px;
     margin-left: 25px;
 }
-.content4 {
-    background: #f5f6f9;
-}
 .col1 {
     width: 30px;
 }
@@ -93,6 +90,18 @@
 .title3 {
     margin-top: 30px;
     text-align: center;
+}
+.title4 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 35px;
+}
+.title5 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
 }
 .icons {
     text-align: center;
