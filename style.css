@@ -86,6 +86,7 @@
     font-weight: 500;
     font-size: 18px;
     line-height: 26px;
+    padding: 8px;
 }
 .title3 {
     margin-top: 30px;
@@ -169,7 +170,6 @@ footer {
 .semi {
     display: flex;
     justify-content: space-between;
-    
 }
 .slogan {
     margin-top: 18px;
@@ -186,6 +186,7 @@ footer {
     display: inline;
     margin: 20px;
     font-size: 12px;
+    margin-left: 70px;
 }
 .inline1 {
     display: inline;
